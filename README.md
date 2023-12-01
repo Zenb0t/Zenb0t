@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Felipe, a Full Stack Engineer with a passion for building and designing software that improves lives. Skilled in Node.js, TypeScript, Java, and React, I thrive on creating intuitive SaaS applications and efficient REST APIs.
+I'm Felipe, a Full Stack Engineer with a passion for building and designing software that improves lives. Skilled in Node.js, TypeScript, Java, React and React Native, I thrive on creating intuitive SaaS applications and efficient REST APIs.
 
 📍 Currently based in Vancouver, BC, I'm dedicated to crafting scalable solutions, with a keen eye for user experience and a creative approach to problem-solving.
 
