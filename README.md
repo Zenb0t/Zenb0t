@@ -19,8 +19,6 @@ I'm Felipe, a Full Stack Engineer with a passion for building and designing soft
 
 ---
 
-⭐️ From Felipe Ribeiro
-
 
 <!--
 **Zenb0t/Zenb0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
